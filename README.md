@@ -45,7 +45,7 @@ Employee Detail Screen
 <div align="center"> <img src="./Assets.xcassets/employeeDetail.imageset/employeeDetail.png" alt="Employee Detail Screen" width="300" /> </div>  
 
 Settings Screen  
-<div align="center"> <img src="./Assets.xcassets/settingScreen.imageset/settingScreen.png" alt="Settings Screen" width="300" /> </div>  
+<div align="center"> <img src="./EmployeeExplorer/Assets.xcassets/settingScreen.imageset/Screenshot 2024-12-03 at 20.55.38.png" alt="Settings Screen" width="300" /> </div>  
 
 ---
 
