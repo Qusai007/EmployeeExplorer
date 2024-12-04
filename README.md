@@ -42,7 +42,7 @@ Employee List Screen
 <div align="center"> <img src="./EmployeeExplorer/Assets.xcassets/employeeList.imageset/Screenshot 2024-12-03 at 20.50.37.png" alt="Employee List Screen" width="300" /> </div>  
 
 Employee Detail Screen  
-<div align="center"> <img src="./Assets.xcassets/employeeDetail.imageset/employeeDetail.png" alt="Employee Detail Screen" width="300" /> </div>  
+<div align="center"> <img src="./EmployeeExplorer/Assets.xcassets/employeeDetail.imageset/Screenshot 2024-12-03 at 20.51.26.png" alt="Employee Detail Screen" width="300" /> </div>  
 
 Settings Screen  
 <div align="center"> <img src="./EmployeeExplorer/Assets.xcassets/settingScreen.imageset/Screenshot 2024-12-03 at 20.55.38.png" alt="Settings Screen" width="300" /> </div>  
