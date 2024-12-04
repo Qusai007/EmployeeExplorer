@@ -39,7 +39,7 @@ Onboarding Screen
 <div align="center"> <img src="./EmployeeExplorer/Assets.xcassets/onboarding.imageset/Screenshot 2024-12-03 at 20.48.33.png" alt="Onboarding Screen" width="300" /> </div>  
 
 Employee List Screen  
-<div align="center"> <img src="./Assets.xcassets/employeeList.imageset/employeeList.png" alt="Employee List Screen" width="300" /> </div>  
+<div align="center"> <img src="./EmployeeExplorer/Assets.xcassets/employeeList.imageset/Screenshot 2024-12-03 at 20.50.37.png" alt="Employee List Screen" width="300" /> </div>  
 
 Employee Detail Screen  
 <div align="center"> <img src="./Assets.xcassets/employeeDetail.imageset/employeeDetail.png" alt="Employee Detail Screen" width="300" /> </div>  
