@@ -36,7 +36,7 @@ A sleek, intuitive Swift-based app designed to explore employee data. This app p
 ## 📸 Screenshots  
 
 Onboarding Screen  
-<div align="center"> <img src="./Assets.xcassets/onboarding.imageset/onboarding.png" alt="Onboarding Screen" width="300" /> </div>  
+<div align="center"> <img src="./EmployeeExplorer/Assets.xcassets/onboarding.imageset/onboarding.png" alt="Onboarding Screen" width="300" /> </div>  
 
 Employee List Screen  
 <div align="center"> <img src="./Assets.xcassets/employeeList.imageset/employeeList.png" alt="Employee List Screen" width="300" /> </div>  
